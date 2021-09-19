@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Imperor\source\repos\Consolerarn\Consolerarn\main.cpp(29,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Imperor\source\repos\Consolerarn\Consolerarn\main.cpp(29,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Imperor\source\repos\Consolerarn\Consolerarn\main.cpp(29,39): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Imperor\source\repos\Consolerarn\Consolerarn\main.cpp(45,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Imperor\source\repos\Consolerarn\Consolerarn\main.cpp(47,20): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Consolerarn.vcxproj -> C:\Users\Imperor\source\repos\Consolerarn\Debug\Consolerarn.exe
